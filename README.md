@@ -5,7 +5,7 @@ Hi, I'm Kartik Rathaur — an Android enthusiast who loves building, modifying, 
 - 🏠 Based in India 🇮🇳
 - 📱 Focused on Jetpack Compose, Kotlin & Reverse Engineering
 - 🧠 Currently learning Smali, APKTool, and rooted Android emulators
-- 🛠️ My goal is to master Android — from app development to OS internals
+- 🛠️ My goal is to master Android 
 
 ---
 
