@@ -1,4 +1,4 @@
-🌱 I’m  Android Developer
+🌱  Android Developer
 -
 
 <!---
