@@ -1,5 +1,4 @@
-🌱 I’m currently learning Android Devoloping...
-
+🌱 I’m  Android Developer
 -
 
 <!---
