@@ -11,10 +11,22 @@ Hi, I'm Kartik Rathaur — an Android enthusiast who loves building, modifying, 
 
 ## 🛠️ Skills
 
-🟣 Kotlin &nbsp;&nbsp;&nbsp; ☕ Java &nbsp;&nbsp;&nbsp; 📱 Jetpack Compose  
-🧩 MVVM &nbsp;&nbsp;&nbsp; 🧰 APKTool &nbsp;&nbsp;&nbsp; 🧪 Frida  
-🪛 ADB &nbsp;&nbsp;&nbsp; 🧬 Smali &nbsp;&nbsp;&nbsp; 🐧 Linux  
-🌐 Networking &nbsp;&nbsp;&nbsp; 🧠 Reverse Engineering &nbsp;&nbsp;&nbsp; 💡 Git
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-1C1C1C?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/APKTool-E34F26?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smali-222222?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADB-434343?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+</p>
+
 
 ---
 
