@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/JADX-000000?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/ADB-434343?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="[https://img.shields.io/badge/Linux-FCC624?](https://miro.medium.com/v2/resize:fit:1400/0*Qqqd7UsfFDPL7WXh.jpeg)style=flat&logo=linux&logoColor=black" />
 </p>
 
 
