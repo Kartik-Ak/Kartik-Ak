@@ -2,7 +2,6 @@
 
 Hi, I'm Kartik Rathaur — an Android enthusiast who loves building, modifying, and exploring Android apps from UI to system level.
 
-- 🏠 Based in India 🇮🇳
 - 📱 Focused on Jetpack Compose, Kotlin & Reverse Engineering
 - 🧠 Currently learning Smali, APKTool, and rooted Android emulators
 - 🛠️ My goal is to master Android 
@@ -25,14 +24,7 @@ Hi, I'm Kartik Rathaur — an Android enthusiast who loves building, modifying, 
 </p>
 
 
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-
----
+----
 
 ## 📈 GitHub Stats
 
