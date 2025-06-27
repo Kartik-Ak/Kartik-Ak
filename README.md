@@ -1,6 +1,6 @@
 ## 👨‍💻 Android Developer
 
-Hi, I'm Kartik Rathaur — an Android enthusiast who loves building, modifying, and exploring Android apps from UI to system level.
+Hi, I'm Kartik Rathaur 3 year BCA Student — an Android enthusiast who loves building, modifying, and exploring Android apps from UI to system level.
 
 - 📱 Focused on Jetpack Compose, Kotlin & Reverse Engineering
 - 🧠 Currently learning Smali, APKTool, and rooted Android emulators
