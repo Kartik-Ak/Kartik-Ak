@@ -25,10 +25,3 @@ Hi, I'm Kartik Rathaur 3 year BCA Student — an Android enthusiast who loves bu
 
 
 ----
-
-## 📈 GitHub Stats
-
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight)
-
----
